@@ -1,0 +1,20 @@
+Bonjour,
+  Vous trouverez ici un tutoriel basé sur la documentation officiel d'OpenSAP ui5 (https://open.sap.com).
+  Leur documentation est très bien faite. Je vais donc m'appuyer dessus afin de la réaliser en français.
+  
+  J'ai aussi consigné des questions que j'ai pu me poser lors de ma formation. 
+
+
+  L'arborescence se découpe comme cela : 
+    - Explications contenant les cours 
+    - Source code, sont des exemples valides d'apprentissage
+
+  Liens utiles :  
+
+  - https://openui5.hana.ondemand.com/
+  - https://open.sap.com
+  - https://account.hanatrial.ondemand.com/
+
+
+
+
